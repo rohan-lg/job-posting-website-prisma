@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner.png" alt="Job Board banner" width="100%" />
-</p>
-
 # Job Board
 
 A full-stack job posting website built with **Next.js**, **Prisma** and **PostgreSQL**. Users sign in with GitHub, post job openings, browse and search listings, and apply for positions. A personal dashboard shows the jobs you've posted and the applications you've sent.
